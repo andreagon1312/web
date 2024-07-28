@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #83ffd3;
+    color: rgb(0, 0, 0);
+    padding: 1em;
+    text-align: center;
+}
+
+main {
+    padding: 1em;
+}
+
+h2 {
+    color: #31716e;
+}
+
+nav a {
+    margin: 0 1em;
+    text-decoration: none;
+    color: white;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+section {
+    margin: 1em 0;
+}
+
+article {
+    margin: 1em 0;
+}
+
+#quiz-container {
+    display: none;
+}
